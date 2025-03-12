@@ -4,7 +4,6 @@ import pandas as pd
 from skimage.measure import label, regionprops
 from skimage.morphology import remove_small_objects
 
-from skimage.draw import circle_perimeter
 
 class Video():
 
